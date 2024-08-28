@@ -4,37 +4,38 @@ We learn about different loops in C++.
 ## Theory
 1.For Loop
 Used when you know how many times you want to repeat a block of code.
+
 `Syntax:`
 
-for (initialization; condition; update){
+`for (initialization; condition; update){
 
   code to execute
   
-}
+}`
 
 2.While Loop
 Used when you want to repeat a block of code as long as a certain condition is true.
 
-Syntax:
+`Syntax:`
 
-while (condition) {
+`while (condition) {
 
   code to execute
   
-}
+}`
 
 3.Do-While Loop
 Used when you want to ensure a block of code runs at least once, then repeats as long as a condition is true.
 
-Syntax:
+`Syntax:`
 
-do {
+`do {
  
   code to execute
 
 }
 
-while (condition);
+while (condition);`
 
 ## Output
 
