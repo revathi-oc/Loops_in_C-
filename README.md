@@ -4,8 +4,7 @@ We learn about different loops in C++.
 ## Theory
 1.For Loop
 Used when you know how many times you want to repeat a block of code.
-
-'Syntax:'
+`Syntax:`
 
 for (initialization; condition; update){
 
