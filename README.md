@@ -2,7 +2,7 @@
 ## Aim
 We learn about different loops in C++.
 ## Theory
-1.For Loop
+**1. For Loop**
 Used when you know how many times you want to repeat a block of code.
 
 `Syntax:`
@@ -13,7 +13,7 @@ for (initialization; condition; update){
   
 }
 
-2.While Loop
+**2. While Loop**
 Used when you want to repeat a block of code as long as a certain condition is true.
 
 `Syntax:`
@@ -24,7 +24,7 @@ while (condition) {
   
 }
 
-3.Do-While Loop
+**3. Do-While Loop**
 Used when you want to ensure a block of code runs at least once, then repeats as long as a condition is true.
 
 `Syntax:`
@@ -53,4 +53,6 @@ while (condition);
 
 ![image](https://github.com/user-attachments/assets/7b2d027d-13cc-4c6c-a56a-1df95dc5785c)
 
+# Conlusion
+We learnt about different loops in C++.
 
